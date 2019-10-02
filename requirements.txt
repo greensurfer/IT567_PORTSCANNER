@@ -1,0 +1,4 @@
+ipaddress==1.0.22
+manuf==1.0.0
+scapy==2.4.3
+tqdm==4.36.1
